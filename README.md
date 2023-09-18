@@ -1,7 +1,6 @@
-Hey, I'm Florian, a student of 42 Heilbronn and lifelong learner.
+## Hey, I'm Florian, a student of 42 Heilbronn and lifelong learner.
 
 ## Main Languages and Tools
-
 [![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,python,docker,git)](https://skillicons.dev)
 
 ## Some of my 42 Projects
