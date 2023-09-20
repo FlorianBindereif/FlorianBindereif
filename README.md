@@ -3,7 +3,7 @@
 ## Main Languages and Tools
 [![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,python,docker,git)](https://skillicons.dev)
 
-## Some of my 42 Projects
+## Some of my Projects
 
 #### [DisasterPipeline]
 The goal of this project was to build a machine learining model to classfiy twitter messages that are send during disasters. Steps included building a basic ETL and ML pipeline as well as a Web-App to display statistics using graphical plots.
